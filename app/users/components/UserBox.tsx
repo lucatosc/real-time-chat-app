@@ -15,7 +15,7 @@ interface UserBoxProps {
 const UserBox: React.FC<UserBoxProps> = ({ user }) => {
   const router = useRouter();
   const [isLoading, setIsLoading] = useState(false);
-
+  const [activeUser, setActiveUser] = useState("Luca");
   const handleClick = useCallback(() => {
     setIsLoading(true);
 
