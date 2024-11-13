@@ -38,7 +38,7 @@ Follow these steps to set up the Nexus Chat Application locally:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yodkwtf/nexus-chat-application.git
+git clone https://github.com/lucatosc/real-time-chat-app.git
 cd nexus-chat-application
 ```
 

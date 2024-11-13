@@ -7,7 +7,6 @@
 
 ## Bookmarks
 
-[Video Link](https://youtu.be/PGPGcKBpAk8)
 
 ## Tech Stack
 
