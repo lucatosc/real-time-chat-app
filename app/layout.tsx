@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   keywords: [],
   twitter: {
     card: 'summary_large_image',
-    creator: '@yodkwtf',
+    creator: '@lucatosc',
   },
 };
 
